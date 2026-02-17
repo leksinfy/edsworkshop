@@ -129,6 +129,13 @@ main .form form .field-invalid .field-description {
     font-weight: 700;
 }
 
+main .form form .field-wrapper label {
+Font-weight: 600;
+}
+
+
+
+
 
 /**
  * Required field indicator
