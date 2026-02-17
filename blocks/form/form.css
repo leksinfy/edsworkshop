@@ -246,6 +246,11 @@ main .form form fieldset.radio-group-wrapper > legend {
     padding-left: 0;
 }
 
+main .form form .text-wrapper > input {
+border: 1px solid #ff00f2;
+}
+
+
 main .form label.required::after {
     content: "*";
     color: var(--form-label-color);
