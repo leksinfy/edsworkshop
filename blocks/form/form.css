@@ -245,7 +245,7 @@ main .form form fieldset.radio-group-wrapper > legend {
 }
 
 main .form form .field-wrapper label {
-Font-weight: 600;
+font-weight: 600;
 }
 
 main .form form .text-wrapper > input {
