@@ -129,9 +129,7 @@ main .form form .field-invalid .field-description {
     font-weight: 700;
 }
 
-main .form form .field-wrapper label {
-Font-weight: 600;
-}
+
 
 
 
@@ -244,6 +242,10 @@ main .form form fieldset.radio-group-wrapper {
 main .form form fieldset.checkbox-group-wrapper > legend,
 main .form form fieldset.radio-group-wrapper > legend {
     padding-left: 0;
+}
+
+main .form form .field-wrapper label {
+Font-weight: 600;
 }
 
 main .form form .text-wrapper > input {
